@@ -6,4 +6,4 @@ Projeto desenvolvido no âmbito da cadeira de Pogramação. Nele era pedido o de
   - Gabriel Carvalho (202208939)
   - Rafael Cunha (202206499)
 
-## Nota obtida: 19.80
+Nota obtida: 19.80
